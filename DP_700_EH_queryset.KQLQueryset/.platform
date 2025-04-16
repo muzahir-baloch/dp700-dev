@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLQueryset",
+    "displayName": "DP_700_EH_queryset",
+    "description": "DP_700_EH_queryset"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "dc30624d-dd79-9783-4d92-b4179bf601db"
+  }
+}

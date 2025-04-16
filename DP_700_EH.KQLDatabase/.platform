@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "KQLDatabase",
+    "displayName": "DP_700_EH",
+    "description": "DP_700_EH"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0af89131-f555-96fb-4f03-76d2bda702e8"
+  }
+}
